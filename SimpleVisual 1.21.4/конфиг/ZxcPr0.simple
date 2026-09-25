@@ -1,0 +1,602 @@
+{
+  "modules": {
+    "ClientSound": {
+      "toggled": false,
+      "bind": {
+        "key": -1,
+        "mouse": false,
+        "mode": "TOGGLE"
+      },
+      "settings": {
+        "setting.volume": 1.0,
+        "mode.legacy": false,
+        "setting.sound": {
+          "mode.legacy": false,
+          "mode.pair2": false,
+          "mode.pair1": true
+        },
+        "mode.pair2": false,
+        "mode.pair1": true
+      }
+    },
+    "BlockOverlay": {
+      "toggled": true,
+      "bind": {
+        "key": -1,
+        "mouse": false,
+        "mode": "TOGGLE"
+      },
+      "settings": {
+        "setting.fill": false,
+        "setting.alpha": 109.0,
+        "setting.lineWidth": 2.5,
+        "setting.fillAlpha": 50.0
+      }
+    },
+    "AutoSprint": {
+      "toggled": true,
+      "bind": {
+        "key": -1,
+        "mouse": false,
+        "mode": "TOGGLE"
+      },
+      "settings": {}
+    },
+    "BetterMinecraft": {
+      "toggled": true,
+      "bind": {
+        "key": -1,
+        "mouse": false,
+        "mode": "TOGGLE"
+      },
+      "settings": {
+        "setting.smoothThirdPersonZoom": true,
+        "setting.smoothTab": true
+      }
+    },
+    "TargetEsp": {
+      "toggled": false,
+      "bind": {
+        "key": -1,
+        "mouse": false,
+        "mode": "TOGGLE"
+      },
+      "settings": {
+        "new": true,
+        "setting.animationMode": {
+          "mode.marker": true,
+          "mode.soul": false,
+          "mode.circle": false
+        },
+        "old": false,
+        "setting.hitFlash": true,
+        "setting.glowIntensity": 0.5,
+        "mode.circle": false,
+        "setting.jelloHeight": 1.5,
+        "mode.marker": true,
+        "mode.soul": false,
+        "setting.alpha": 1.0,
+        "setting.markerGlow": true,
+        "setting.particleDensity": 14.0,
+        "setting.animationSpeed": 2500.0,
+        "setting.markerSize": 3.0,
+        "setting.markerMode": {
+          "new": true,
+          "old": false
+        },
+        "setting.ghostsScale": 0.3
+      }
+    },
+    "Snow": {
+      "toggled": false,
+      "bind": {
+        "key": -1,
+        "mouse": false,
+        "mode": "TOGGLE"
+      },
+      "settings": {
+        "Количество": 150.0,
+        "Интервал спавна": 60.0,
+        "Глянцевые": false,
+        "Размер": 0.15,
+        "Рандомный цвет": false,
+        "Режим": {
+          "Взлет": false,
+          "Простой": true
+        }
+      }
+    },
+    "PvPHelper": {
+      "toggled": true,
+      "bind": {
+        "key": -1,
+        "mouse": false,
+        "mode": "TOGGLE"
+      },
+      "settings": {
+        "setting.pearlBind": "69:false:TOGGLE"
+      }
+    },
+    "Trails": {
+      "toggled": true,
+      "bind": {
+        "key": -1,
+        "mouse": false,
+        "mode": "TOGGLE"
+      },
+      "settings": {
+        "setting.trails.length": 20.0
+      }
+    },
+    "Fullbright": {
+      "toggled": true,
+      "bind": {
+        "key": -1,
+        "mouse": false,
+        "mode": "TOGGLE"
+      },
+      "settings": {}
+    },
+    "Crosshair": {
+      "toggled": false,
+      "bind": {
+        "key": -1,
+        "mouse": false,
+        "mode": "TOGGLE"
+      },
+      "settings": {
+        "Длина": 3.0,
+        "Толщина": 1.0,
+        "Динамический разрыв": false,
+        "Цвет при наведении": false,
+        "Разрыв": 2.0
+      }
+    },
+    "NoRender": {
+      "toggled": true,
+      "bind": {
+        "key": -1,
+        "mouse": false,
+        "mode": "TOGGLE"
+      },
+      "settings": {
+        "Potions": false,
+        "Limbs": false,
+        "Totem": false,
+        "Blocks": true,
+        "Armor": false,
+        "Fire": true,
+        "BossBar": false,
+        "ScoreBoard": false,
+        "Particles": false,
+        "NoHurtCam": true
+      }
+    },
+    "ViewModel": {
+      "toggled": false,
+      "bind": {
+        "key": -1,
+        "mouse": false,
+        "mode": "TOGGLE"
+      },
+      "settings": {
+        "setting.offZ": 0.0,
+        "setting.offY": 0.0,
+        "setting.mainZ": 0.0,
+        "setting.mainY": 0.0,
+        "setting.mainX": 0.0,
+        "setting.offX": 0.0
+      }
+    },
+    "DamageParticles": {
+      "toggled": false,
+      "bind": {
+        "key": -1,
+        "mouse": false,
+        "mode": "TOGGLE"
+      },
+      "settings": {
+        "setting.animationMode": {
+          "mode.bouncy": true,
+          "mode.legacy": false
+        },
+        "setting.scatter": 0.07,
+        "setting.size": 30.0,
+        "setting.lifetime": 10.0,
+        "setting.amount": 30.0,
+        "setting.textures": {
+          "setting.circle": false,
+          "setting.amongus": false,
+          "setting.star": true,
+          "setting.heart": false,
+          "setting.dollar": false
+        },
+        "setting.speed": 1.0
+      }
+    },
+    "JumpCircle": {
+      "toggled": true,
+      "bind": {
+        "key": -1,
+        "mouse": false,
+        "mode": "TOGGLE"
+      },
+      "settings": {
+        "Speed": 1.0,
+        "Grow": false,
+        "Second": true,
+        "Pulse": false,
+        "Ripple": true,
+        "Animation": {
+          "Grow": false,
+          "Pulse": false,
+          "Ripple": true
+        },
+        "First": false,
+        "Circle Size": 0.5,
+        "Life Time": 1.35,
+        "Texture": {
+          "Second": true,
+          "First": false
+        }
+      }
+    },
+    "UI": {
+      "toggled": false,
+      "bind": {
+        "key": 344,
+        "mouse": false,
+        "mode": "TOGGLE"
+      },
+      "settings": {}
+    },
+    "FriendHelper": {
+      "toggled": false,
+      "bind": {
+        "key": -1,
+        "mouse": false,
+        "mode": "TOGGLE"
+      },
+      "settings": {
+        "setting.noFriendDamage": true,
+        "setting.friendKey": "2:true:TOGGLE"
+      }
+    },
+    "Zoom": {
+      "toggled": false,
+      "bind": {
+        "key": 86,
+        "mouse": false,
+        "mode": "TOGGLE"
+      },
+      "settings": {
+        "setting.smoothSpeed": 4.0,
+        "setting.smoothZoom": true,
+        "setting.zoomStrength": 8.0
+      }
+    },
+    "DiscordRPC": {
+      "toggled": false,
+      "bind": {
+        "key": -1,
+        "mouse": false,
+        "mode": "TOGGLE"
+      },
+      "settings": {}
+    },
+    "SwingAnimation": {
+      "toggled": false,
+      "bind": {
+        "key": -1,
+        "mouse": false,
+        "mode": "TOGGLE"
+      },
+      "settings": {
+        "setting.animationMode": {
+          "mode.seventh": false,
+          "mode.third": false,
+          "mode.custom": false,
+          "mode.sixth": false,
+          "mode.second": false,
+          "mode.first": true,
+          "mode.normal": false,
+          "mode.fourth": false
+        },
+        "custom.scaleX": 1.0,
+        "custom.scaleY": 1.0,
+        "custom.scaleZ": 1.0,
+        "custom.idleRotate": false,
+        "mode.sixth": false,
+        "mode.fourth": false,
+        "mode.seventh": false,
+        "mode.third": false,
+        "custom.baseYaw": 0.0,
+        "setting.swingPower": 2.3,
+        "custom.basePitch": 0.0,
+        "mode.custom": false,
+        "custom.baseRoll": 0.0,
+        "custom.rotateZ": 0.0,
+        "custom.rotateY": 0.0,
+        "custom.rotateX": 0.0,
+        "mode.first": true,
+        "custom.translateX": 0.0,
+        "custom.idleRotateSpeedZ": 0.0,
+        "custom.idleRotateSpeedY": 90.0,
+        "custom.translateZ": 0.0,
+        "custom.idleRotateSpeedX": 0.0,
+        "mode.second": false,
+        "custom.translateY": 0.0,
+        "mode.normal": false
+      }
+    },
+    "FTHelper": {
+      "toggled": false,
+      "bind": {
+        "key": -1,
+        "mouse": false,
+        "mode": "TOGGLE"
+      },
+      "settings": {
+        "setting.trapBind": "84:false:TOGGLE",
+        "setting.disorientBind": "72:false:TOGGLE"
+      }
+    },
+    "CustomHitBox": {
+      "toggled": true,
+      "bind": {
+        "key": 72,
+        "mouse": false,
+        "mode": "TOGGLE"
+      },
+      "settings": {
+        "setting.fill": true,
+        "setting.outlineAlpha": 165.0,
+        "setting.lineWidth": 6.0,
+        "setting.fillAlpha": 0.0
+      }
+    },
+    "HitBubbles": {
+      "toggled": false,
+      "bind": {
+        "key": -1,
+        "mouse": false,
+        "mode": "TOGGLE"
+      },
+      "settings": {
+        "setting.size": 0.5,
+        "setting.lifeTime": 0.8
+      }
+    },
+    "HitSound": {
+      "toggled": false,
+      "bind": {
+        "key": -1,
+        "mouse": false,
+        "mode": "TOGGLE"
+      },
+      "settings": {
+        "mode.skeet": false,
+        "mode.crime": false,
+        "setting.volume": 1.0,
+        "mode.nya": false,
+        "mode.uwu": false,
+        "setting.sound": {
+          "mode.skeet": false,
+          "mode.crime": false,
+          "mode.nya": false,
+          "mode.uwu": false,
+          "mode.bell": true
+        },
+        "mode.bell": true
+      }
+    },
+    "ShiftTap": {
+      "toggled": false,
+      "bind": {
+        "key": -1,
+        "mouse": false,
+        "mode": "TOGGLE"
+      },
+      "settings": {
+        "setting.holdTicks": 3.0
+      }
+    },
+    "HitColor": {
+      "toggled": true,
+      "bind": {
+        "key": -1,
+        "mouse": false,
+        "mode": "TOGGLE"
+      },
+      "settings": {
+        "setting.alpha": 0.8
+      }
+    },
+    "Cape": {
+      "toggled": true,
+      "bind": {
+        "key": -1,
+        "mouse": false,
+        "mode": "TOGGLE"
+      },
+      "settings": {}
+    },
+    "NameProtect": {
+      "toggled": false,
+      "bind": {
+        "key": -1,
+        "mouse": false,
+        "mode": "TOGGLE"
+      },
+      "settings": {
+        "Замена ника": "Protected",
+        "Скрывать ники друзей": true
+      }
+    },
+    "CustomFog": {
+      "toggled": false,
+      "bind": {
+        "key": -1,
+        "mouse": false,
+        "mode": "TOGGLE"
+      },
+      "settings": {
+        "setting.fogDistance": 256.0
+      }
+    },
+    "Aspect Ratio": {
+      "toggled": true,
+      "bind": {
+        "key": -1,
+        "mouse": false,
+        "mode": "TOGGLE"
+      },
+      "settings": {
+        "setting.aspectRatio": 1.54
+      }
+    },
+    "AutoRespawn": {
+      "toggled": true,
+      "bind": {
+        "key": -1,
+        "mouse": false,
+        "mode": "TOGGLE"
+      },
+      "settings": {
+        "setting.deathCoordinates": true
+      }
+    },
+    "TotemCounter": {
+      "toggled": false,
+      "bind": {
+        "key": -1,
+        "mouse": false,
+        "mode": "TOGGLE"
+      },
+      "settings": {}
+    },
+    "TimeChanger": {
+      "toggled": false,
+      "bind": {
+        "key": -1,
+        "mouse": false,
+        "mode": "TOGGLE"
+      },
+      "settings": {
+        "setting.time": 12.0
+      }
+    },
+    "Predictions": {
+      "toggled": false,
+      "bind": {
+        "key": -1,
+        "mouse": false,
+        "mode": "TOGGLE"
+      },
+      "settings": {
+        "Show Pearl": true,
+        "Show Trident": true,
+        "Show Bow": true,
+        "Show Crossbow": true,
+        "Show Landing Info": true,
+        "Highlight Players": true,
+        "Show When Holding": true
+      }
+    },
+    "ItemPhysic": {
+      "toggled": false,
+      "bind": {
+        "key": -1,
+        "mouse": false,
+        "mode": "TOGGLE"
+      },
+      "settings": {}
+    },
+    "ChinaHat": {
+      "toggled": false,
+      "bind": {
+        "key": -1,
+        "mouse": false,
+        "mode": "TOGGLE"
+      },
+      "settings": {
+        "setting.brimRadius": 1.1,
+        "setting.opacity": 1.0,
+        "setting.showFriends": false
+      }
+    }
+  },
+  "currentTheme": "Amethyst",
+  "hudPositions": {
+    "Potions": {
+      "x": 0.025,
+      "y": 0.39166668,
+      "enabled": false
+    },
+    "TargetHud": {
+      "x": 0.00625,
+      "y": 0.011111111,
+      "enabled": true
+    },
+    "Hotbar": {
+      "x": 0.3703125,
+      "y": 0.6611111,
+      "enabled": false
+    },
+    "ArmorHUD": {
+      "x": 0.1578125,
+      "y": 0.5499999,
+      "enabled": true
+    },
+    "Watermark": {
+      "x": 0.00625,
+      "y": 0.23333333,
+      "enabled": false
+    }
+  },
+  "hudSettings": {
+    "Potions": {
+      "setting.position": {
+        "x": 0.025,
+        "y": 0.39166668
+      },
+      "HighlightLowDuration": true,
+      "ShowNegative": true
+    },
+    "TargetHud": {
+      "targethud.style": {
+        "targethud.style.card": false,
+        "targethud.style.default": true
+      },
+      "hudParticles": true,
+      "displayAbsorption": true,
+      "setting.position": {
+        "x": 0.00625,
+        "y": 0.011111111
+      }
+    },
+    "Hotbar": {
+      "setting.position": {
+        "x": 0.3703125,
+        "y": 0.6611111
+      }
+    },
+    "ArmorHUD": {
+      "setting.layout": {
+        "setting.vertical": false,
+        "setting.horizontal": true
+      },
+      "setting.position": {
+        "x": 0.1578125,
+        "y": 0.5499999
+      }
+    },
+    "Watermark": {
+      "setting.position": {
+        "x": 0.00625,
+        "y": 0.23333333
+      }
+    }
+  },
+  "commandPrefix": "."
+}
